@@ -1,0 +1,143 @@
+# AI Job Hunter
+
+AI-powered job discovery and resume optimization platform for entry-level software engineering roles in India and remote India.
+
+## Current status
+
+The project currently includes the first job-discovery increment:
+
+- A company registry generated from the public GetChayan directory.
+- Public job fetching for Greenhouse, Lever, Ashby, and SmartRecruiters.
+- Configurable title, location, experience, and technology filters.
+- Retry, timeout, delay, deduplication, and logging support.
+- JSON and CSV opportunity exports.
+
+Resume optimization, ATS evaluation, database persistence, and the frontend are planned phases and are not implemented yet.
+
+## Project files
+
+```text
+agents.md                 Project requirements and development rules
+companies_url.py          Builds the company registry from the public directory
+company_registry.json     Normalized company registry in JSON
+company_registry.csv      Normalized company registry in CSV
+scrape_opportunities.py   Fetches and filters public job postings
+config/job_search.yaml    Job discovery filters and scraper settings
+requirements.txt          Python dependencies
+```
+
+## Requirements
+
+- Python 3.12+
+- Network access to public job endpoints
+- The dependencies in `requirements.txt`
+
+Install dependencies:
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+If the environment blocks PyPI, install the dependencies from an internet-enabled machine or provide an offline wheel directory.
+
+## Generate the company registry
+
+The registry source is:
+
+```text
+https://getchayan.com/career-pages-of-companies-in-india/
+```
+
+Run:
+
+```powershell
+python companies_url.py
+```
+
+This creates:
+
+- `company_registry.json`
+- `company_registry.csv`
+
+To override the source URL:
+
+```powershell
+$env:COMPANY_DIRECTORY_URL="https://example.com/company-directory"
+python companies_url.py
+```
+
+## Fetch job opportunities
+
+Run the scraper after generating the registry:
+
+```powershell
+python scrape_opportunities.py
+```
+
+The scraper reads `company_registry.json`, routes supported companies to their public ATS endpoint, filters matching jobs, and creates:
+
+- `opportunities.json`
+- `opportunities.csv`
+
+The current filters target:
+
+- Gurugram/Gurgaon
+- Bengaluru/Bangalore
+- Hyderabad
+- Pune
+- India and remote roles
+- SDE-1 and related software engineering titles
+- Entry-level roles while excluding senior, staff, lead, principal, manager, director, and architect titles
+- Java, Python, C++, Spring Boot, SQL, PostgreSQL, Redis, Kafka, Apache Spark, and distributed systems
+
+Modify `config/job_search.yaml` to change these filters, request behavior, or output names. The scraper does not invent an experience level when a posting does not state one; title and description evidence are used for filtering.
+
+## Logging
+
+Normal logging:
+
+```powershell
+python scrape_opportunities.py
+```
+
+Detailed request and parsing logs:
+
+```powershell
+$env:JOB_SCRAPER_LOG_LEVEL="DEBUG"
+python scrape_opportunities.py
+```
+
+Supported levels include `DEBUG`, `INFO`, `WARNING`, and `ERROR`.
+
+## Public-source rules
+
+The scraper must only access publicly available career pages and documented public job endpoints. It must:
+
+- Respect provider terms, `robots.txt`, rate limits, and reasonable delays.
+- Fetch published/listed jobs only.
+- Never bypass authentication, CAPTCHAs, paywalls, or access controls.
+- Preserve the original application URL and source provider.
+- Mark unsupported ATS providers as skipped instead of guessing endpoints.
+- Treat results as source coverage, not a guarantee of every open role in India.
+
+Currently unsupported registry providers include Workday, SuccessFactors, Oracle, Darwinbox, Eightfold, Workable, and company-owned career sites. They require separate adapters or careful public-page handling.
+
+## Validation
+
+Run basic syntax checks:
+
+```powershell
+python -m py_compile companies_url.py scrape_opportunities.py
+```
+
+Network-backed scraping cannot be fully tested in environments where outbound access is disabled.
+
+## Roadmap
+
+1. Complete public job-source adapters and provider-specific pagination.
+2. Add PostgreSQL persistence and job-status tracking.
+3. Add job-description parsing and skill extraction.
+4. Add factual resume optimization using verified candidate data.
+5. Add controlled LaTeX editing and compilation validation.
+6. Add explainable ATS-style scoring.
+7. Add dashboard and scheduled discovery.
