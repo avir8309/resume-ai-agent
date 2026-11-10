@@ -19,6 +19,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent
 REGISTRY_PATH = ROOT / "company_registry.json"
+REMOTE_REGISTRY_PATH = ROOT / "remote_jobs.json"
 CONFIG_PATH = ROOT / "config" / "job_search.yaml"
 SUPPORTED_PROVIDERS = {"Greenhouse", "Lever", "Ashby", "SmartRecruiters"}
 USER_AGENT = "AI-Job-Hunter/0.1 (public-job-discovery)"
@@ -53,8 +54,38 @@ def load_registry() -> list[dict[str, Any]]:
         records = json.load(file)
     if not isinstance(records, list):
         raise ValueError("company_registry.json must contain a JSON list")
-    logger.info("Loaded %d companies from registry", len(records))
+    if REMOTE_REGISTRY_PATH.exists():
+        with REMOTE_REGISTRY_PATH.open(encoding="utf-8") as file:
+            remote_data = json.load(file)
+        remote_records = [
+            {
+                "company": item.get("company"),
+                "careers_url": item.get("url"),
+                "india_locations": ["Remote"],
+                "ats_provider": infer_provider(item.get("url", "")),
+                "source_url": item.get("source_repository"),
+            }
+            for item in remote_data.get("companies", [])
+            if item.get("company") and item.get("url")
+        ]
+        records.extend(remote_records)
+        logger.info("Loaded %d additional remote-company seed URLs", len(remote_records))
+
+    logger.info("Loaded %d total company records", len(records))
     return records
+
+
+def infer_provider(careers_url: str) -> str:
+    host = urlparse(careers_url).netloc.casefold()
+    if "greenhouse" in host:
+        return "Greenhouse"
+    if "lever.co" in host:
+        return "Lever"
+    if "ashbyhq.com" in host:
+        return "Ashby"
+    if "smartrecruiters.com" in host:
+        return "SmartRecruiters"
+    return "Career page"
 
 
 def board_slug(careers_url: str) -> str | None:

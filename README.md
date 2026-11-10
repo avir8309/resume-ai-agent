@@ -21,6 +21,7 @@ agents.md                 Project requirements and development rules
 companies_url.py          Builds the company registry from the public directory
 company_registry.json     Normalized company registry in JSON
 company_registry.csv      Normalized company registry in CSV
+remote_jobs.json          Remote-friendly company seed URLs
 scrape_opportunities.py   Fetches and filters public job postings
 config/job_search.yaml    Job discovery filters and scraper settings
 requirements.txt          Python dependencies
@@ -74,7 +75,7 @@ Run the scraper after generating the registry:
 python scrape_opportunities.py
 ```
 
-The scraper reads `company_registry.json`, routes supported companies to their public ATS endpoint, filters matching jobs, and creates:
+The scraper reads `company_registry.json` and, when present, also reads `remote_jobs.json`. It routes supported companies to their public ATS endpoint, filters matching jobs, and creates:
 
 - `opportunities.json`
 - `opportunities.csv`
@@ -89,6 +90,8 @@ The current filters target:
 - SDE-1 and related software engineering titles
 - Entry-level roles while excluding senior, staff, lead, principal, manager, director, and architect titles
 - Java, Python, C++, Spring Boot, SQL, PostgreSQL, Redis, Kafka, Apache Spark, and distributed systems
+
+`remote_jobs.json` contains remote-friendly company career URLs, not guaranteed active vacancies or proof of India hiring eligibility. URLs that can be identified as Greenhouse, Lever, Ashby, or SmartRecruiters are scraped automatically. Generic career pages are logged as unsupported until a provider-specific adapter is added.
 
 Modify `config/job_search.yaml` to change these filters, request behavior, or output names. The scraper does not invent an experience level when a posting does not state one; title and description evidence are used for filtering.
 
