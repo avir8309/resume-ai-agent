@@ -1,0 +1,5902 @@
+[
+  {
+    "company": "100ms",
+    "careers_url": "https://jobs.lever.co/100ms",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "4flow",
+    "careers_url": "https://4flow.wd3.myworkdayjobs.com/4flow",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "6sense",
+    "careers_url": "https://job-boards.greenhouse.io/6sense",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ABB",
+    "careers_url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page",
+    "india_locations": [
+      "Bengaluru",
+      "Ahmedabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Abbott",
+    "careers_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
+    "india_locations": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "AbbVie",
+    "careers_url": "https://jobs.smartrecruiters.com/abbvie",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Abnormal",
+    "careers_url": "https://job-boards.greenhouse.io/abnormalsecurity",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Acceldata",
+    "careers_url": "https://jobs.lever.co/acceldata",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Accelerate People",
+    "careers_url": "https://job-boards.greenhouse.io/acceleratepeople",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Accelya",
+    "careers_url": "https://accelya.wd103.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Mumbai",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Accenture",
+    "careers_url": "https://accenture.wd103.myworkdayjobs.com/AvanadeCareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Acumatica",
+    "careers_url": "https://jobs.smartrecruiters.com/acumatica",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Adobe",
+    "careers_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+    "india_locations": [
+      "Noida",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Afcons",
+    "careers_url": "https://careers.afcons.com/",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Agilent",
+    "careers_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Agoda",
+    "careers_url": "https://job-boards.greenhouse.io/agoda",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "AiPrise",
+    "careers_url": "https://jobs.ashbyhq.com/aiprise",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Airbnb",
+    "careers_url": "https://job-boards.greenhouse.io/airbnb",
+    "india_locations": [
+      "Remote",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Airtel",
+    "careers_url": "https://airtel.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Akamai",
+    "careers_url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 21,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Alegeus",
+    "careers_url": "https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Alfa Laval",
+    "careers_url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Allstate",
+    "careers_url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Alpaca",
+    "careers_url": "https://job-boards.greenhouse.io/alpaca",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "AlphaSense",
+    "careers_url": "https://job-boards.greenhouse.io/alphasense",
+    "india_locations": [
+      "Remote",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Alteryx",
+    "careers_url": "https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Altimate AI",
+    "careers_url": "https://jobs.ashbyhq.com/altimate",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Amazon",
+    "careers_url": "https://www.amazon.jobs/en/search?base_query=&loc_query=India",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 219,
+    "ats_provider": "Own site",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ameriprise Financial",
+    "careers_url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise",
+    "india_locations": [
+      "Noida",
+      "Gurugram",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Amgen",
+    "careers_url": "https://amgen.wd1.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Amneal",
+    "careers_url": "https://hcfa.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001",
+    "india_locations": [
+      "Ahmedabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Analog Devices",
+    "careers_url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 29,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Anaplan",
+    "careers_url": "https://job-boards.greenhouse.io/anaplan",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ansira",
+    "careers_url": "https://ansira.wd1.myworkdayjobs.com/Ansira_Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Anthropic",
+    "careers_url": "https://job-boards.greenhouse.io/anthropic",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Anyscale",
+    "careers_url": "https://jobs.ashbyhq.com/anyscale",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ANZ",
+    "careers_url": "https://careers.anz.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Apollo.io",
+    "careers_url": "https://job-boards.greenhouse.io/apolloio",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Appian Corporation",
+    "careers_url": "https://job-boards.greenhouse.io/appian",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Apple",
+    "careers_url": "https://jobs.apple.com/en-in/search",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 106,
+    "ats_provider": "Own site",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Aptiv",
+    "careers_url": "https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 64,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Arctic Wolf",
+    "careers_url": "https://arcticwolf.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Arista Networks",
+    "careers_url": "https://jobs.smartrecruiters.com/aristanetworks",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 26,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Arrive",
+    "careers_url": "https://jobs.ashbyhq.com/arrive",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Assent",
+    "careers_url": "https://jobs.smartrecruiters.com/assent",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "AstraZeneca",
+    "careers_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "AT&T",
+    "careers_url": "https://att.wd1.myworkdayjobs.com/ATTGeneral",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Athenahealth",
+    "careers_url": "https://athenahealth.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 22,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Atlan",
+    "careers_url": "https://jobs.ashbyhq.com/atlan",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Atlys",
+    "careers_url": "https://jobs.ashbyhq.com/atlys",
+    "india_locations": [
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "AtoB",
+    "careers_url": "https://jobs.ashbyhq.com/atob",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Atos",
+    "careers_url": "https://jobs.atos.net/",
+    "india_locations": [
+      "Mumbai",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Augury",
+    "careers_url": "https://job-boards.greenhouse.io/augury",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Autodesk",
+    "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Automation Anywhere",
+    "careers_url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Availity",
+    "careers_url": "https://availity.wd1.myworkdayjobs.com/Availity_Careers_India",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Avathon",
+    "careers_url": "https://job-boards.greenhouse.io/avathon",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Avaya",
+    "careers_url": "https://careers.avaya.com/",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "AVEVA",
+    "careers_url": "https://aveva.wd3.myworkdayjobs.com/AVEVA_careers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 28,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Avnet",
+    "careers_url": "https://avnet.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Bengaluru",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Avoca",
+    "careers_url": "https://jobs.ashbyhq.com/avoca",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "B12",
+    "careers_url": "https://job-boards.greenhouse.io/b12",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bajaj Auto",
+    "careers_url": "https://careers.bajajauto.com/",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Baker Hughes",
+    "careers_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes",
+    "india_locations": [
+      "Mumbai",
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Barclays",
+    "careers_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
+    "india_locations": [
+      "Pune",
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Barry-Wehmiller",
+    "careers_url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Baxter",
+    "careers_url": "https://baxter.wd1.myworkdayjobs.com/baxter",
+    "india_locations": [
+      "Bengaluru",
+      "Ahmedabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bayer",
+    "careers_url": "https://jobs.bayer.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bentley Systems",
+    "careers_url": "https://bentleysystems.wd5.myworkdayjobs.com/bentley",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Biocon",
+    "careers_url": "https://careers.biocon.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Birlasoft",
+    "careers_url": "https://jobs.birlasoft.com/",
+    "india_locations": [
+      "Pune",
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 230,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "BitGo",
+    "careers_url": "https://job-boards.greenhouse.io/bitgo",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bitwarden",
+    "careers_url": "https://job-boards.greenhouse.io/bitwarden",
+    "india_locations": [
+      "Noida",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Blackbaud",
+    "careers_url": "https://blackbaud.wd1.myworkdayjobs.com/ExternalCareers",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "BlackLine",
+    "careers_url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "BlackRock",
+    "careers_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
+    "india_locations": [
+      "Mumbai",
+      "Bengaluru",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Blenheim Chalcot India",
+    "careers_url": "https://job-boards.greenhouse.io/blenheimchalcotindia",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Blitzy",
+    "careers_url": "https://jobs.ashbyhq.com/blitzy",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bloomreach",
+    "careers_url": "https://job-boards.greenhouse.io/bloomreach",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "BNY",
+    "careers_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers",
+    "india_locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 99,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Boeing",
+    "careers_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Boku",
+    "careers_url": "https://job-boards.greenhouse.io/boku",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bolna AI",
+    "careers_url": "https://jobs.ashbyhq.com/bolna",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Boston Scientific",
+    "careers_url": "https://jobs.bostonscientific.com/",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Brave",
+    "careers_url": "https://job-boards.greenhouse.io/brave",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bristlecone",
+    "careers_url": "https://iaagiz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/bristlecone-careers",
+    "india_locations": [
+      "Bengaluru",
+      "Noida",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bristol Myers Squibb",
+    "careers_url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 27,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Broadcom",
+    "careers_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Broadridge",
+    "careers_url": "https://broadridge.wd5.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "BrowserStack",
+    "careers_url": "https://browserstack.wd3.myworkdayjobs.com/External",
+    "india_locations": [
+      "Remote",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "BT Group",
+    "careers_url": "https://jobs.bt.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 21,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Bureau",
+    "careers_url": "https://jobs.ashbyhq.com/bureau",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cadence",
+    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "india_locations": [
+      "Noida",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 24,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cambridge Mobile Telematics",
+    "careers_url": "https://job-boards.greenhouse.io/cambridgemobiletelematics",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Candescent",
+    "careers_url": "https://candescent.wd501.myworkdayjobs.com/Hiring",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Capco",
+    "careers_url": "https://job-boards.greenhouse.io/capco",
+    "india_locations": [
+      "Bengaluru",
+      "Pune",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 62,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Capgemini",
+    "careers_url": "https://careers.capgemini.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 237,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Capital One",
+    "careers_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CaratLane",
+    "careers_url": "https://caratlane.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cardboard",
+    "careers_url": "https://jobs.ashbyhq.com/cardboard",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CarDekho",
+    "careers_url": "https://cardekho.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Gurugram",
+      "Jaipur"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Carrier",
+    "careers_url": "https://carrier.wd5.myworkdayjobs.com/jobs",
+    "india_locations": [
+      "Hyderabad",
+      "Chennai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CDW",
+    "careers_url": "https://cdw.wd5.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Celestica",
+    "careers_url": "https://careers.celestica.com/",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Celonis",
+    "careers_url": "https://job-boards.greenhouse.io/celonis",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Certa",
+    "careers_url": "https://jobs.ashbyhq.com/certa",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Chevron",
+    "careers_url": "https://chevron.wd5.myworkdayjobs.com/jobs",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ciena",
+    "careers_url": "https://ciena.wd5.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Gurugram",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cigna",
+    "careers_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 47,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cin7",
+    "careers_url": "https://jobs.lever.co/cin7",
+    "india_locations": [
+      "Ahmedabad",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Circle",
+    "careers_url": "https://circle.wd1.myworkdayjobs.com/Circle",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cisco",
+    "careers_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 114,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cisive",
+    "careers_url": "https://cisive.wd108.myworkdayjobs.com/Cisive",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Citigroup",
+    "careers_url": "https://citi.wd5.myworkdayjobs.com/2",
+    "india_locations": [
+      "Gurugram",
+      "Pune",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Clarivate",
+    "careers_url": "https://clarivate.wd3.myworkdayjobs.com/Clarivate_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Clearwater",
+    "careers_url": "https://job-boards.greenhouse.io/clearwater",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cloudera",
+    "careers_url": "https://cloudera.wd5.myworkdayjobs.com/External_Career",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CloudSEK",
+    "careers_url": "https://job-boards.greenhouse.io/cloudsek",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Clueso",
+    "careers_url": "https://jobs.ashbyhq.com/clueso",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CME Group",
+    "careers_url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cockroach Labs",
+    "careers_url": "https://job-boards.greenhouse.io/cockroachlabs",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cohere Health",
+    "careers_url": "https://job-boards.greenhouse.io/coherehealth",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 19,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cohesity",
+    "careers_url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Coinbase",
+    "careers_url": "https://job-boards.greenhouse.io/coinbase",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CommerceIQ",
+    "careers_url": "https://job-boards.greenhouse.io/commerceiq",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CommScope",
+    "careers_url": "https://jobs.commscope.com/",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Commvault",
+    "careers_url": "https://job-boards.greenhouse.io/commvault",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Conga",
+    "careers_url": "https://job-boards.greenhouse.io/conga",
+    "india_locations": [
+      "Bengaluru",
+      "Ahmedabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Contentstack",
+    "careers_url": "https://job-boards.greenhouse.io/contentstack",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Continental",
+    "careers_url": "https://jobs.smartrecruiters.com/continental",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Copart",
+    "careers_url": "https://copart.wd12.myworkdayjobs.com/Copart",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Copeland",
+    "careers_url": "https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Corpay",
+    "careers_url": "https://corpay.wd103.myworkdayjobs.com/Ext_001",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Coupa",
+    "careers_url": "https://jobs.lever.co/coupa",
+    "india_locations": [
+      "Pune",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Coupang",
+    "careers_url": "https://job-boards.greenhouse.io/coupang",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 37,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Coursera",
+    "careers_url": "https://job-boards.greenhouse.io/coursera",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CRED",
+    "careers_url": "https://jobs.lever.co/cred",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "CrowdStrike",
+    "careers_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+    "india_locations": [
+      "Bengaluru",
+      "Pune",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Crunchyroll, LLC",
+    "careers_url": "https://job-boards.greenhouse.io/crunchyroll",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cyberhaven",
+    "careers_url": "https://jobs.ashbyhq.com/cyberhaven",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cyderes",
+    "careers_url": "https://jobs.lever.co/cyderes",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Cyncly",
+    "careers_url": "https://fa-ewdg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CynclyJobs",
+    "india_locations": [
+      "Kochi",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Danaher",
+    "careers_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 21,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Danfoss",
+    "careers_url": "https://jobs.danfoss.com/",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Databricks",
+    "careers_url": "https://job-boards.greenhouse.io/databricks",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 49,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Datavail",
+    "careers_url": "https://eifn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ExternalCareerSite",
+    "india_locations": [
+      "Mumbai",
+      "Remote",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "DBS",
+    "careers_url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers",
+    "india_locations": [
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "DDN",
+    "careers_url": "https://jobs.ashbyhq.com/ddn",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 22,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Demandbase",
+    "careers_url": "https://jobs.ashbyhq.com/demandbase",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Deutsche Bank",
+    "careers_url": "https://db.wd3.myworkdayjobs.com/DBWebsite",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Diageo",
+    "careers_url": "https://diageo.wd3.myworkdayjobs.com/Diageo_Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "DISCO",
+    "careers_url": "https://job-boards.greenhouse.io/disco",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Disney",
+    "careers_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Doceree",
+    "careers_url": "https://doceree.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Dow",
+    "careers_url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Druva",
+    "careers_url": "https://job-boards.greenhouse.io/druva",
+    "india_locations": [
+      "Pune",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "DTCC",
+    "careers_url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "india_locations": [
+      "Hyderabad",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 67,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Duck Creek",
+    "careers_url": "https://duckcreek.wd1.myworkdayjobs.com/duckcreekcareers",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Dunnhumby",
+    "careers_url": "https://job-boards.greenhouse.io/dunnhumby",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "DXC Technology",
+    "careers_url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
+    "india_locations": [
+      "Bengaluru",
+      "Noida",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 49,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "EarnIn",
+    "careers_url": "https://job-boards.greenhouse.io/earnin",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "eBay",
+    "careers_url": "https://ebay.wd5.myworkdayjobs.com/apply",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 73,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ecolab",
+    "careers_url": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Elastic",
+    "careers_url": "https://job-boards.greenhouse.io/elastic",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Elevance Health",
+    "careers_url": "https://elevancehealth.wd1.myworkdayjobs.com/carelonglobal_in",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ema",
+    "careers_url": "https://jobs.ashbyhq.com/ema",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Emeritus",
+    "careers_url": "https://emeritus.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Emerson",
+    "careers_url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "india_locations": [
+      "Pune",
+      "Chennai",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 70,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Endava",
+    "careers_url": "https://jobs.smartrecruiters.com/Endava",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Endor Labs",
+    "careers_url": "https://job-boards.greenhouse.io/endorlabs",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Entegris",
+    "careers_url": "https://entegris.wd1.myworkdayjobs.com/EntegrisCareers",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Enterpret",
+    "careers_url": "https://job-boards.greenhouse.io/enterpret",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Equal Experts",
+    "careers_url": "https://job-boards.greenhouse.io/equalexperts",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Equifax",
+    "careers_url": "https://equifax.wd5.myworkdayjobs.com/External",
+    "india_locations": [
+      "Thiruvananthapuram",
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Esri",
+    "careers_url": "https://job-boards.greenhouse.io/esri",
+    "india_locations": [
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Everpure",
+    "careers_url": "https://job-boards.greenhouse.io/purestorage",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 53,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Evolent",
+    "careers_url": "https://evolent.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "EXL",
+    "careers_url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "india_locations": [
+      "Gurugram",
+      "Noida",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 93,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Expedia",
+    "careers_url": "https://expedia.wd108.myworkdayjobs.com/search",
+    "india_locations": [
+      "Gurugram",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Experian",
+    "careers_url": "https://jobs.smartrecruiters.com/experian",
+    "india_locations": [
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Exponent Energy",
+    "careers_url": "https://apply.workable.com/exponent-energy",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Workable",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ExxonMobil",
+    "careers_url": "https://jobs.exxonmobil.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 29,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "EY",
+    "careers_url": "https://careers.ey.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Noida",
+      "Kochi"
+    ],
+    "tech_roles_count_at_source_snapshot": 79,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "FactSet",
+    "careers_url": "https://factset.wd108.myworkdayjobs.com/FactSetCareers",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 21,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Fampay",
+    "careers_url": "https://jobs.lever.co/fampay",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Fictiv",
+    "careers_url": "https://job-boards.greenhouse.io/fictiv",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Fidelity Investments",
+    "careers_url": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Firstsource",
+    "careers_url": "https://careers.firstsource.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "FirstWork",
+    "careers_url": "https://jobs.ashbyhq.com/firstwork",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Fiserv",
+    "careers_url": "https://fiserv.wd5.myworkdayjobs.com/EXT",
+    "india_locations": [
+      "Pune",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Five9",
+    "careers_url": "https://job-boards.greenhouse.io/five9",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Fivetran",
+    "careers_url": "https://job-boards.greenhouse.io/fivetran",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Flywire",
+    "careers_url": "https://flywire.wd108.myworkdayjobs.com/flywirecareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "FNZ",
+    "careers_url": "https://fnz.wd3.myworkdayjobs.com/fnz_careers",
+    "india_locations": [
+      "Pune",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Forcepoint",
+    "careers_url": "https://forcepoint.wd1.myworkdayjobs.com/engineering-external-careers1",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Forward",
+    "careers_url": "https://job-boards.greenhouse.io/forwardnetworks",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Fractal Analytics",
+    "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Freshworks",
+    "careers_url": "https://jobs.smartrecruiters.com/freshworks",
+    "india_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Gartner",
+    "careers_url": "https://gartner.wd5.myworkdayjobs.com/EXT",
+    "india_locations": [
+      "Gurugram",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 18,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "GE Vernova",
+    "careers_url": "https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting",
+    "india_locations": [
+      "Noida",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Gen Digital",
+    "careers_url": "https://jobs.ashbyhq.com/gen-digital",
+    "india_locations": [
+      "Chennai",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "General Motors",
+    "careers_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Genesys",
+    "careers_url": "https://genesys.wd1.myworkdayjobs.com/2_Genesys_Jobs",
+    "india_locations": [
+      "Chennai",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Genpact",
+    "careers_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 93,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Gilead",
+    "careers_url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "GitLab",
+    "careers_url": "https://job-boards.greenhouse.io/gitlab",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 26,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Glance",
+    "careers_url": "https://job-boards.greenhouse.io/glance",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "GMR Group",
+    "careers_url": "https://careers.gmrgroup.in/",
+    "india_locations": [
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "GoDaddy",
+    "careers_url": "https://job-boards.greenhouse.io/godaddy",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Goldman Sachs",
+    "careers_url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Google",
+    "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?location=India",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 154,
+    "ats_provider": "Own site",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Grab",
+    "careers_url": "https://jobs.smartrecruiters.com/grab",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Graviton Research Capital",
+    "careers_url": "https://job-boards.greenhouse.io/gravitonresearchcapital",
+    "india_locations": [
+      "Gurugram",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Greenlight",
+    "careers_url": "https://jobs.lever.co/greenlight",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Grundfos",
+    "careers_url": "https://jobs.grundfos.com/",
+    "india_locations": [
+      "Chennai",
+      "Ahmedabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "GSK",
+    "careers_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 89,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Guidehouse",
+    "careers_url": "https://guidehouse.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Chennai",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Guidewire",
+    "careers_url": "https://guidewire.wd5.myworkdayjobs.com/external",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 28,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "HackerRank",
+    "careers_url": "https://job-boards.greenhouse.io/hackerrank",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Halliburton",
+    "careers_url": "https://jobs.halliburton.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "HAMMOQ",
+    "careers_url": "https://jobs.smartrecruiters.com/HAMMOQ",
+    "india_locations": [
+      "Indore"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Harman",
+    "careers_url": "https://harman.wd3.myworkdayjobs.com/HARMAN",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 39,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Harris Computer",
+    "careers_url": "https://harriscomputer.wd3.myworkdayjobs.com/1",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 22,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Harvey",
+    "careers_url": "https://jobs.ashbyhq.com/harvey",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Hero MotoCorp",
+    "careers_url": "https://jobs.heromotocorp.com/",
+    "india_locations": [
+      "Jaipur",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Hevo Data",
+    "careers_url": "https://jobs.lever.co/hevodata",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Hewlett Packard Enterprise",
+    "careers_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 48,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Hexaware",
+    "careers_url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 26,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "HG Insights",
+    "careers_url": "https://job-boards.greenhouse.io/hginsights",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "HighRadius",
+    "careers_url": "https://job-boards.greenhouse.io/highradius",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Hinge Health",
+    "careers_url": "https://jobs.ashbyhq.com/hinge-health",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Hitachi",
+    "careers_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Hive",
+    "careers_url": "https://jobs.lever.co/hive",
+    "india_locations": [
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Honeywell",
+    "careers_url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 93,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "HP",
+    "careers_url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Human Archive",
+    "careers_url": "https://jobs.ashbyhq.com/humanarchive",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ICICI Securities",
+    "careers_url": "https://careers.icicisecurities.com/",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "IDT",
+    "careers_url": "https://jobs.lever.co/idt",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Illumina",
+    "careers_url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "IMC",
+    "careers_url": "https://job-boards.greenhouse.io/imc",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Indian Hotels",
+    "careers_url": "https://careers.ihcltata.com/",
+    "india_locations": [
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Infosys",
+    "careers_url": "https://career.infosys.com/joblist",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 160,
+    "ats_provider": "Own site",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ingram Micro",
+    "careers_url": "https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro",
+    "india_locations": [
+      "Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "InMobi",
+    "careers_url": "https://job-boards.greenhouse.io/inmobi",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Instawork",
+    "careers_url": "https://job-boards.greenhouse.io/instawork",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Intel",
+    "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 34,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Invesco",
+    "careers_url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "InvoiceCloud",
+    "careers_url": "https://job-boards.greenhouse.io/invoicecloud",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ION",
+    "careers_url": "https://jobs.lever.co/ion",
+    "india_locations": [
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "IQVIA",
+    "careers_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
+    "india_locations": [
+      "Bengaluru",
+      "Kochi"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Iris Software",
+    "careers_url": "https://careers.irissoftware.com/",
+    "india_locations": [
+      "Noida",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 175,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ixigo",
+    "careers_url": "https://jobs.smartrecruiters.com/ixigo",
+    "india_locations": [
+      "Gurugram",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Jabil",
+    "careers_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "JFrog",
+    "careers_url": "https://job-boards.greenhouse.io/jfrog",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "JioStar",
+    "careers_url": "https://jiostar.wd102.myworkdayjobs.com/JioStar",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 39,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Jitterbit",
+    "careers_url": "https://jobs.smartrecruiters.com/jitterbit",
+    "india_locations": [
+      "Bengaluru",
+      "Pune",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "JLL",
+    "careers_url": "https://jll.wd1.myworkdayjobs.com/jllcareers",
+    "india_locations": [
+      "Bengaluru",
+      "Gurugram",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 27,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 197,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Jumio",
+    "careers_url": "https://job-boards.greenhouse.io/jumio",
+    "india_locations": [
+      "Remote",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Jump Trading",
+    "careers_url": "https://job-boards.greenhouse.io/jumptrading",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "JumpCloud",
+    "careers_url": "https://jobs.lever.co/jumpcloud",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Juniper Square",
+    "careers_url": "https://jobs.ashbyhq.com/junipersquare",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Kaleris",
+    "careers_url": "https://kaleris.wd501.myworkdayjobs.com/kaleris_careers",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Kantiv",
+    "careers_url": "https://jobs.ashbyhq.com/kantiv",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Karat",
+    "careers_url": "https://job-boards.greenhouse.io/karat",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Kimberly-Clark",
+    "careers_url": "https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "KLA",
+    "careers_url": "https://kla.wd1.myworkdayjobs.com/Search",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 23,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Kobie",
+    "careers_url": "https://jobs.lever.co/kobie",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Konecranes",
+    "careers_url": "https://jobs.smartrecruiters.com/Konecranes",
+    "india_locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Kong",
+    "careers_url": "https://jobs.ashbyhq.com/kong",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Kotak Mahindra Bank",
+    "careers_url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "india_locations": [
+      "Mumbai",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 38,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "KPMG Global Services",
+    "careers_url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3",
+    "india_locations": [
+      "Bengaluru",
+      "Pune",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 38,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "KPMG India",
+    "careers_url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 28,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "KreditBee",
+    "careers_url": "https://kreditbee.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Kyndryl",
+    "careers_url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "L&T Technology Services",
+    "careers_url": "https://jobs.ltts.com/",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Labcorp",
+    "careers_url": "https://labcorp.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 22,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "LatentView",
+    "careers_url": "https://latentview.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Legion",
+    "careers_url": "https://job-boards.greenhouse.io/legion",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Level AI",
+    "careers_url": "https://jobs.lever.co/levelai",
+    "india_locations": [
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Locus",
+    "careers_url": "https://locus.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "LogicMonitor",
+    "careers_url": "https://job-boards.greenhouse.io/logicmonitor",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Logitech",
+    "careers_url": "https://logitech.wd5.myworkdayjobs.com/Logitech",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "London Stock Exchange Group",
+    "careers_url": "https://lseg.wd3.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Lonza",
+    "careers_url": "https://lonza.wd3.myworkdayjobs.com/Lonza_Careers",
+    "india_locations": [
+      "Gurugram",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Lowes",
+    "careers_url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Lupin",
+    "careers_url": "https://careers.lupin.com/",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mactores",
+    "careers_url": "https://jobs.lever.co/mactores",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Maersk",
+    "careers_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Magna",
+    "careers_url": "https://magna.wd3.myworkdayjobs.com/Magna",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mahle",
+    "careers_url": "https://careers.mahle.com/",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mars",
+    "careers_url": "https://mars.wd3.myworkdayjobs.com/External",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Marsh McLennan",
+    "careers_url": "https://mmc.wd1.myworkdayjobs.com/careers",
+    "india_locations": [
+      "Gurugram",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Marvell",
+    "careers_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 20,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mastek",
+    "careers_url": "https://careers.mastek.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mastercard",
+    "careers_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+    "india_locations": [
+      "Pune",
+      "Gurugram",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 120,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mattel",
+    "careers_url": "https://jobs.smartrecruiters.com/mattelinc",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 24,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mavenir",
+    "careers_url": "https://mavenir.wd1.myworkdayjobs.com/Mavenir_Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Max Life Insurance",
+    "careers_url": "https://careers.maxlifeinsurance.com/",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "McDonalds",
+    "careers_url": "https://jobs.mcdonalds.com/",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "McKesson",
+    "careers_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Medline",
+    "careers_url": "https://medline.wd5.myworkdayjobs.com/Medline",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Medtronic",
+    "careers_url": "https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 47,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Meesho",
+    "careers_url": "https://jobs.lever.co/meesho",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 18,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mesh",
+    "careers_url": "https://job-boards.greenhouse.io/mesh",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Metaforms",
+    "careers_url": "https://jobs.ashbyhq.com/metaforms",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Metropolis",
+    "careers_url": "https://job-boards.greenhouse.io/metropolis",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Micron Technology",
+    "careers_url": "https://micron.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 58,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Microsoft",
+    "careers_url": "https://apply.careers.microsoft.com/careers",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 157,
+    "ats_provider": "Eightfold",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mindtickle",
+    "careers_url": "https://jobs.lever.co/mindtickle",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mirantis",
+    "careers_url": "https://jobs.smartrecruiters.com/mirantis",
+    "india_locations": [
+      "Hyderabad",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Mitratech",
+    "careers_url": "https://job-boards.greenhouse.io/mitratech",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "MoEngage",
+    "careers_url": "https://moengage.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Moneyview",
+    "careers_url": "https://moneyview.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "MongoDB",
+    "careers_url": "https://job-boards.greenhouse.io/mongodb",
+    "india_locations": [
+      "Gurugram",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 29,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Morgan Stanley",
+    "careers_url": "https://ms.wd5.myworkdayjobs.com/External",
+    "india_locations": [
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Morningstar",
+    "careers_url": "https://morningstar.wd5.myworkdayjobs.com/Americas",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Motorola Solutions",
+    "careers_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "MUFG Pension & Market Services",
+    "careers_url": "https://hcmn.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 20,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NAB",
+    "careers_url": "https://nab.wd3.myworkdayjobs.com/nab_careers",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Narayana Health",
+    "careers_url": "https://jobs.narayanahealth.org/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Nasdaq",
+    "careers_url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Nasuni",
+    "careers_url": "https://job-boards.greenhouse.io/nasuni",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 20,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ncr Voyix",
+    "careers_url": "https://ncr.wd1.myworkdayjobs.com/ext_apac",
+    "india_locations": [
+      "Chennai",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 30,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NEC",
+    "careers_url": "https://careers.nec.com/",
+    "india_locations": [
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Neo4j",
+    "careers_url": "https://job-boards.greenhouse.io/neo4j",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NetApp",
+    "careers_url": "https://jobs.netapp.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 52,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NETGEAR",
+    "careers_url": "https://jobs.ashbyhq.com/netgear",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 23,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Netomi",
+    "careers_url": "https://jobs.lever.co/netomi",
+    "india_locations": [
+      "Remote",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Netradyne",
+    "careers_url": "https://job-boards.greenhouse.io/netradyne",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Netskope",
+    "careers_url": "https://job-boards.greenhouse.io/netskope",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 18,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "New Relic",
+    "careers_url": "https://job-boards.greenhouse.io/newrelic",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Nexthink",
+    "careers_url": "https://jobs.smartrecruiters.com/nexthink",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NICE",
+    "careers_url": "https://job-boards.greenhouse.io/nice",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 18,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NielsenIQ",
+    "careers_url": "https://jobs.smartrecruiters.com/nielseniq",
+    "india_locations": [
+      "Chennai",
+      "Pune",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 49,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NIIT",
+    "careers_url": "https://jobs.niit.com/",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Nike",
+    "careers_url": "https://nike.wd1.myworkdayjobs.com/nke",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 64,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Nium",
+    "careers_url": "https://jobs.lever.co/nium",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Niyo",
+    "careers_url": "https://niyo.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Nokia",
+    "careers_url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 44,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Nomura",
+    "careers_url": "https://careers.nomura.com/",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 62,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Northern Trust",
+    "careers_url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Notion",
+    "careers_url": "https://jobs.ashbyhq.com/notion",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Novartis",
+    "careers_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Novo Nordisk",
+    "careers_url": "https://careers.novonordisk.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NVIDIA",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaExternalCareerSite",
+    "india_locations": [
+      "Bengaluru",
+      "Pune",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "NXP Semiconductors",
+    "careers_url": "https://nxp.wd3.myworkdayjobs.com/careers",
+    "india_locations": [
+      "Bengaluru",
+      "Noida",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 25,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Oaktree",
+    "careers_url": "https://oaktree.wd1.myworkdayjobs.com/Oaktree",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Observe.AI",
+    "careers_url": "https://job-boards.greenhouse.io/observeai",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Okta",
+    "careers_url": "https://job-boards.greenhouse.io/okta",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 98,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Omnissa",
+    "careers_url": "https://omnissa.wd501.myworkdayjobs.com/Omnissa_External_Career_Site",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 24,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "OneTrust",
+    "careers_url": "https://job-boards.greenhouse.io/onetrust",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Onit",
+    "careers_url": "https://jobs.lever.co/onit",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "OpenAI",
+    "careers_url": "https://jobs.ashbyhq.com/openai",
+    "india_locations": [
+      "Remote",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "OpenGov",
+    "careers_url": "https://jobs.ashbyhq.com/opengov",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Optum",
+    "careers_url": "https://careers.unitedhealthgroup.com/",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 249,
+    "ats_provider": "Own site",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Oracle",
+    "careers_url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Kolkata"
+    ],
+    "tech_roles_count_at_source_snapshot": 322,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Outreach",
+    "careers_url": "https://jobs.lever.co/outreach",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "OutSystems",
+    "careers_url": "https://outsystems.wd503.myworkdayjobs.com/OutSystems",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Overview",
+    "careers_url": "https://jobs.ashbyhq.com/overview",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Palo Alto Networks",
+    "careers_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 50,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "PATH",
+    "careers_url": "https://path.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Payoneer",
+    "careers_url": "https://job-boards.greenhouse.io/payoneer",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "PayPal",
+    "careers_url": "https://paypal.wd1.myworkdayjobs.com/jobs",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 16,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Paytm",
+    "careers_url": "https://jobs.lever.co/paytm",
+    "india_locations": [
+      "Noida",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 23,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "PayU",
+    "careers_url": "https://careers.payu.in/",
+    "india_locations": [
+      "Bengaluru",
+      "Gurugram",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 48,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "PDI Technologies",
+    "careers_url": "https://jobs.lever.co/pditechnologies",
+    "india_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Pearson",
+    "careers_url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 27,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Perficient",
+    "careers_url": "https://fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+    "india_locations": [
+      "Hyderabad",
+      "Pune",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Pfizer",
+    "careers_url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Philips",
+    "careers_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 20,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Ping Identity",
+    "careers_url": "https://job-boards.greenhouse.io/pingidentity",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Pixxel",
+    "careers_url": "https://pixxel.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Plane",
+    "careers_url": "https://jobs.ashbyhq.com/plane",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Plante Moran",
+    "careers_url": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Platform Science",
+    "careers_url": "https://job-boards.greenhouse.io/platformscience",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Point72",
+    "careers_url": "https://job-boards.greenhouse.io/point72",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 28,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Porter",
+    "careers_url": "https://porter.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Poshmark",
+    "careers_url": "https://jobs.ashbyhq.com/poshmark",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Postman",
+    "careers_url": "https://postman.wd108.myworkdayjobs.com/careers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Priceline",
+    "careers_url": "https://priceline.wd1.myworkdayjobs.com/Priceline",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Procter and Gamble",
+    "careers_url": "https://pg.wd5.myworkdayjobs.com/1000",
+    "india_locations": [
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Prodege",
+    "careers_url": "https://prodege.wd108.myworkdayjobs.com/Prodege_Careers",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Prodigal",
+    "careers_url": "https://job-boards.greenhouse.io/prodigal",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Project44",
+    "careers_url": "https://job-boards.greenhouse.io/project44",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Proofpoint",
+    "careers_url": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers",
+    "india_locations": [
+      "Remote",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Protegrity",
+    "careers_url": "https://jobs.ashbyhq.com/protegrity",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Provision",
+    "careers_url": "https://jobs.ashbyhq.com/provision",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Prudential",
+    "careers_url": "https://prudential.wd3.myworkdayjobs.com/prudential",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "PTC",
+    "careers_url": "https://ptc.wd1.myworkdayjobs.com/PTC",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 22,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "PubMatic",
+    "careers_url": "https://job-boards.greenhouse.io/pubmatic",
+    "india_locations": [
+      "Pune",
+      "Gurugram",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 25,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "PwC",
+    "careers_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Gurugram",
+      "Kolkata"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Qualys",
+    "careers_url": "https://qualys.wd5.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Quantiphi",
+    "careers_url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+    "india_locations": [
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Quantiq",
+    "careers_url": "https://job-boards.greenhouse.io/quantiq",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Quantium",
+    "careers_url": "https://job-boards.greenhouse.io/quantium",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "QuinStreet",
+    "careers_url": "https://job-boards.greenhouse.io/quinstreet",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Rackspace",
+    "careers_url": "https://rackspace.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Gurugram",
+      "Remote",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Razorpay",
+    "careers_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Reckitt",
+    "careers_url": "https://careers.reckitt.com/",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Red Hat",
+    "careers_url": "https://redhat.wd5.myworkdayjobs.com/Jobs",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Redwood Software",
+    "careers_url": "https://job-boards.greenhouse.io/redwoodsoftware",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Reltio",
+    "careers_url": "https://job-boards.greenhouse.io/reltio",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "RELX",
+    "careers_url": "https://relx.wd3.myworkdayjobs.com/relx",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 21,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Renesas Electronics",
+    "careers_url": "https://jobs.smartrecruiters.com/renesaselectronics",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 81,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Reply",
+    "careers_url": "https://jobs.lever.co/reply",
+    "india_locations": [
+      "Kochi"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Reputation",
+    "careers_url": "https://reputation.wd1.myworkdayjobs.com/External",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Revvity",
+    "careers_url": "https://revvity.wd103.myworkdayjobs.com/External",
+    "india_locations": [
+      "Remote",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Rhombus Power",
+    "careers_url": "https://job-boards.greenhouse.io/rhombuspower",
+    "india_locations": [
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Rimini Street",
+    "careers_url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "RingCentral",
+    "careers_url": "https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Riveron India",
+    "careers_url": "https://jobs.ashbyhq.com/riveron",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Roche",
+    "careers_url": "https://roche.wd3.myworkdayjobs.com/roche-ext",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Rockstar Games",
+    "careers_url": "https://job-boards.greenhouse.io/rockstargames",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Roku",
+    "careers_url": "https://job-boards.greenhouse.io/roku",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Rolls-Royce",
+    "careers_url": "https://rollsroyce.wd3.myworkdayjobs.com/professional",
+    "india_locations": [
+      "Pune",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Rubrik",
+    "careers_url": "https://job-boards.greenhouse.io/rubrik",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "RZR Global",
+    "careers_url": "https://job-boards.greenhouse.io/rzr",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sabre",
+    "careers_url": "https://sabre.wd1.myworkdayjobs.com/SabreJobs",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 19,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sahaj Software",
+    "careers_url": "https://job-boards.greenhouse.io/sahajsoftware",
+    "india_locations": [
+      "Bengaluru",
+      "Pune",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SailPoint",
+    "careers_url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Salesforce",
+    "careers_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Samsung",
+    "careers_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sandvik",
+    "careers_url": "https://sandvik.wd3.myworkdayjobs.com/Sandvik_Internal_for_nonWD_employees",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sanofi",
+    "careers_url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SAP",
+    "careers_url": "https://careers.sap.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 22,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sarvam AI",
+    "careers_url": "https://jobs.ashbyhq.com/sarvam",
+    "india_locations": [
+      "Bengaluru",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 30,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Saviynt",
+    "careers_url": "https://jobs.lever.co/saviynt",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SBI Card",
+    "careers_url": "https://edox.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Schaeffler",
+    "careers_url": "https://jobs.schaeffler.com/",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SchrÃ¶dinger",
+    "careers_url": "https://job-boards.greenhouse.io/schrdinger",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Scripbox",
+    "careers_url": "https://scripbox.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sectigo",
+    "careers_url": "https://jobs.smartrecruiters.com/sectigo",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ServiceNow",
+    "careers_url": "https://jobs.smartrecruiters.com/servicenow",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 89,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ServiceTitan",
+    "careers_url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Shell",
+    "careers_url": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Shield AI",
+    "careers_url": "https://jobs.lever.co/shieldai",
+    "india_locations": [
+      "Bengaluru",
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Shift",
+    "careers_url": "https://jobs.ashbyhq.com/shift",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Showpad",
+    "careers_url": "https://job-boards.greenhouse.io/showpad",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ShyftLabs",
+    "careers_url": "https://jobs.lever.co/shyftlabs",
+    "india_locations": [
+      "Noida",
+      "Coimbatore"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sia",
+    "careers_url": "https://jobs.smartrecruiters.com/sia",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SiFive",
+    "careers_url": "https://sifive.wd1.myworkdayjobs.com/sifivecareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 24,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sigmoid",
+    "careers_url": "https://job-boards.greenhouse.io/sigmoid",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Signoz",
+    "careers_url": "https://jobs.ashbyhq.com/signoz",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SimCorp",
+    "careers_url": "https://simcorp.wd3.myworkdayjobs.com/SimCorp_Jobs",
+    "india_locations": [
+      "Noida",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 40,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SingleStore",
+    "careers_url": "https://job-boards.greenhouse.io/singlestore",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 7,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SIXT Research & Development India",
+    "careers_url": "https://jobs.smartrecruiters.com/sixt",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SKF",
+    "careers_url": "https://career.skf.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Kolkata"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Skillsoft",
+    "careers_url": "https://job-boards.greenhouse.io/skillsoft",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Smartsheet",
+    "careers_url": "https://job-boards.greenhouse.io/smartsheet",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 18,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Smith+Nephew",
+    "careers_url": "https://smithnephew.wd5.myworkdayjobs.com/External",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Snowflake",
+    "careers_url": "https://jobs.ashbyhq.com/snowflake",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SolarWinds",
+    "careers_url": "https://job-boards.greenhouse.io/solarwinds",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Solvd",
+    "careers_url": "https://jobs.ashbyhq.com/solvd",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sonatus",
+    "careers_url": "https://job-boards.greenhouse.io/sonatus",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sonatype",
+    "careers_url": "https://jobs.lever.co/sonatype",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SonicWall",
+    "careers_url": "https://job-boards.greenhouse.io/sonicwall",
+    "india_locations": [
+      "Pune",
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 26,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sophos",
+    "careers_url": "https://jobs.lever.co/sophos",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SpotDraft",
+    "careers_url": "https://jobs.ashbyhq.com/spotdraft",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sprinklr",
+    "careers_url": "https://sprinklr.wd1.myworkdayjobs.com/careers",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SS&C Technologies",
+    "careers_url": "https://ssctech.wd1.myworkdayjobs.com/SSCTechnologies",
+    "india_locations": [
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Starburst",
+    "careers_url": "https://job-boards.greenhouse.io/starburst",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "StarRez",
+    "careers_url": "https://job-boards.greenhouse.io/starrez",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "State Street",
+    "careers_url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 25,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Stellantis",
+    "careers_url": "https://stellantis.wd3.myworkdayjobs.com/External_Career_Site_ID01",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "StockX",
+    "careers_url": "https://job-boards.greenhouse.io/stockx",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Stripe",
+    "careers_url": "https://job-boards.greenhouse.io/stripe",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Stryker",
+    "careers_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
+    "india_locations": [
+      "Gurugram",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 49,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sumo Logic",
+    "careers_url": "https://job-boards.greenhouse.io/sumologic",
+    "india_locations": [
+      "Noida",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sun Pharma",
+    "careers_url": "https://careers.sunpharma.com/",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Supabase",
+    "careers_url": "https://jobs.ashbyhq.com/supabase",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 29,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "SUSE",
+    "careers_url": "https://suse.wd3.myworkdayjobs.com/Jobsatsuse",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Sutherland",
+    "careers_url": "https://jobs.smartrecruiters.com/sutherland",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Swiggy",
+    "careers_url": "https://jobs.smartrecruiters.com/SWIGGY",
+    "india_locations": [
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Swiss Re",
+    "careers_url": "https://careers.swissre.com/",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Synechron",
+    "careers_url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers",
+    "india_locations": [
+      "Bengaluru",
+      "Pune",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 31,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Take-Two Interactive Software",
+    "careers_url": "https://job-boards.greenhouse.io/taketwo",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Target India",
+    "careers_url": "https://target.wd5.myworkdayjobs.com/targetcareers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 26,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TaskUs",
+    "careers_url": "https://taskus.wd1.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Mumbai",
+      "Noida",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Tata Capital",
+    "careers_url": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Tata Motors",
+    "careers_url": "https://careers.tatamotors.com/",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TE Connectivity",
+    "careers_url": "https://careers.te.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 34,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TechGrove by Banyan Software",
+    "careers_url": "https://job-boards.greenhouse.io/techgrovebybanyansoftware",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Tekion",
+    "careers_url": "https://jobs.ashbyhq.com/tekion",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 59,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Telstra",
+    "careers_url": "https://telstra.wd3.myworkdayjobs.com/tls-careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Texas Instruments",
+    "careers_url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 44,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Thales",
+    "careers_url": "https://thales.wd3.myworkdayjobs.com/Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "The Hartford",
+    "careers_url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 61,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Thermo Fisher",
+    "careers_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 37,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Thoughtworks",
+    "careers_url": "https://job-boards.greenhouse.io/thoughtworks",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TIAA",
+    "careers_url": "https://tiaa.wd1.myworkdayjobs.com/External-Schroder-Internal",
+    "india_locations": [
+      "Pune",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Toast",
+    "careers_url": "https://job-boards.greenhouse.io/toast",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 18,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Together AI",
+    "careers_url": "https://job-boards.greenhouse.io/togetherai",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Tower Research Capital",
+    "careers_url": "https://job-boards.greenhouse.io/towerresearchcapital",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Tradeweb",
+    "careers_url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Trane Technologies",
+    "careers_url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 12,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TransUnion",
+    "careers_url": "https://transunion.wd5.myworkdayjobs.com/TransUnion",
+    "india_locations": [
+      "Pune",
+      "Chennai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Treebo",
+    "careers_url": "https://treebo.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Trellix",
+    "careers_url": "https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers",
+    "india_locations": [
+      "Bengaluru",
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TRG Screen",
+    "careers_url": "https://job-boards.greenhouse.io/trgscreen",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Trimble",
+    "careers_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 17,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Trinity Life Sciences",
+    "careers_url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity",
+    "india_locations": [
+      "Bengaluru",
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Trintech",
+    "careers_url": "https://trintech.wd501.myworkdayjobs.com/Trintech",
+    "india_locations": [
+      "Bengaluru",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 21,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Triomics",
+    "careers_url": "https://jobs.ashbyhq.com/triomics",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Trivelta",
+    "careers_url": "https://job-boards.greenhouse.io/trivelta",
+    "india_locations": [
+      "Indore"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Truecaller",
+    "careers_url": "https://job-boards.greenhouse.io/truecaller",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TrueFoundry",
+    "careers_url": "https://job-boards.greenhouse.io/truefoundry",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Truveta",
+    "careers_url": "https://job-boards.greenhouse.io/truveta",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 13,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TTEC Digital",
+    "careers_url": "https://jobs.lever.co/ttecdigital",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Turing",
+    "careers_url": "https://job-boards.greenhouse.io/turing",
+    "india_locations": [
+      "Bengaluru",
+      "Remote",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Turvo",
+    "careers_url": "https://jobs.lever.co/turvo",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "TVH",
+    "careers_url": "https://tvh.wd3.myworkdayjobs.com/JobsatTVH",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Twilio",
+    "careers_url": "https://job-boards.greenhouse.io/twilio",
+    "india_locations": [
+      "Remote"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Udaan",
+    "careers_url": "https://udaan.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "UiPath",
+    "careers_url": "https://jobs.ashbyhq.com/uipath",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Unilever",
+    "careers_url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals",
+    "india_locations": [
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Uniphore",
+    "careers_url": "https://uniphore.wd503.myworkdayjobs.com/Uniphore",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Unisys",
+    "careers_url": "https://unisys.wd5.myworkdayjobs.com/External",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 33,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Upstox",
+    "careers_url": "https://upstox.darwinbox.in/ms/candidatev2/main/careers",
+    "india_locations": [
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Darwinbox",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "UptimeAI",
+    "careers_url": "https://jobs.ashbyhq.com/uptimeai",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 6,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "US Bank",
+    "careers_url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 25,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "UST",
+    "careers_url": "https://www.ust.com/en/careers",
+    "india_locations": [
+      "Bengaluru",
+      "Thiruvananthapuram",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 405,
+    "ats_provider": "Own site",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Valeo",
+    "careers_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs",
+    "india_locations": [
+      "Chennai",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ValGenesis",
+    "careers_url": "https://jobs.lever.co/valgenesis",
+    "india_locations": [
+      "Chennai",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Vanguard",
+    "careers_url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 78,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Veeam Software",
+    "careers_url": "https://job-boards.greenhouse.io/veeamsoftware",
+    "india_locations": [
+      "Pune",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Vestas",
+    "careers_url": "https://careers.vestas.com/",
+    "india_locations": [
+      "Chennai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Visa",
+    "careers_url": "https://visa.wd5.myworkdayjobs.com/Visa_Talent_Portal",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Volvo",
+    "careers_url": "https://jobs.volvogroup.com/",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 15,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Vultr",
+    "careers_url": "https://jobs.ashbyhq.com/vultr",
+    "india_locations": [
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 5,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Wabtec",
+    "careers_url": "https://jobs.smartrecruiters.com/wabtec",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 45,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Wartsila",
+    "careers_url": "https://careers.wartsila.com/",
+    "india_locations": [
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Waste Management",
+    "careers_url": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers",
+    "india_locations": [
+      "Gurugram"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Weave",
+    "careers_url": "https://jobs.ashbyhq.com/weave",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Ashby",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Wells Fargo",
+    "careers_url": "https://wf.wd1.myworkdayjobs.com/WellsFargoJobs",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 60,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Western Digital",
+    "careers_url": "https://jobs.smartrecruiters.com/westerndigital",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Western Union",
+    "careers_url": "https://westernunion.wd5.myworkdayjobs.com/HiddenWUjobs",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Wipro",
+    "careers_url": "https://careers.wipro.com/",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 557,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Wise",
+    "careers_url": "https://jobs.smartrecruiters.com/wise",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Workday",
+    "careers_url": "https://workday.wd5.myworkdayjobs.com/Workday",
+    "india_locations": [
+      "Pune",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "WorldQuant",
+    "careers_url": "https://job-boards.greenhouse.io/worldquant",
+    "india_locations": [
+      "Delhi"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "WPP Production",
+    "careers_url": "https://job-boards.greenhouse.io/wppproduction",
+    "india_locations": [
+      "Gurugram",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Wrike",
+    "careers_url": "https://job-boards.greenhouse.io/wrike",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 2,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "WSP",
+    "careers_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001",
+    "india_locations": [
+      "Bengaluru",
+      "Noida",
+      "Mumbai"
+    ],
+    "tech_roles_count_at_source_snapshot": 79,
+    "ats_provider": "Oracle",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Xendit",
+    "careers_url": "https://job-boards.greenhouse.io/xendit",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 1,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Xometry",
+    "careers_url": "https://job-boards.greenhouse.io/xometry",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 8,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Xplor Technologies",
+    "careers_url": "https://jobs.smartrecruiters.com/xplor",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "SmartRecruiters",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Xurrent",
+    "careers_url": "https://job-boards.greenhouse.io/xurrent",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "YugabyteDB",
+    "careers_url": "https://job-boards.greenhouse.io/yugabyte",
+    "india_locations": [
+      "India"
+    ],
+    "tech_roles_count_at_source_snapshot": 3,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zebra Technologies",
+    "careers_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers",
+    "india_locations": [
+      "Bengaluru",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 20,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zendesk",
+    "careers_url": "https://zendesk.wd1.myworkdayjobs.com/zendesk",
+    "india_locations": [
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zenoti",
+    "careers_url": "https://job-boards.greenhouse.io/zenoti",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zeta",
+    "careers_url": "https://jobs.lever.co/zeta",
+    "india_locations": [
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Lever",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zeta Global",
+    "careers_url": "https://job-boards.greenhouse.io/zetaglobal",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 22,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ZF",
+    "careers_url": "https://jobs.zf.com/",
+    "india_locations": [
+      "Chennai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "SuccessFactors",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zillow",
+    "careers_url": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External",
+    "india_locations": [
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 14,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zinnia",
+    "careers_url": "https://job-boards.greenhouse.io/zinnia",
+    "india_locations": [
+      "Gurugram",
+      "Pune",
+      "Noida"
+    ],
+    "tech_roles_count_at_source_snapshot": 9,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zoetis",
+    "careers_url": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external",
+    "india_locations": [
+      "Hyderabad"
+    ],
+    "tech_roles_count_at_source_snapshot": 4,
+    "ats_provider": "Workday",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "ZoomInfo Technologies LLC",
+    "careers_url": "https://job-boards.greenhouse.io/zoominfo",
+    "india_locations": [
+      "Bengaluru",
+      "Chennai"
+    ],
+    "tech_roles_count_at_source_snapshot": 10,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "Zscaler",
+    "careers_url": "https://job-boards.greenhouse.io/zscaler",
+    "india_locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune"
+    ],
+    "tech_roles_count_at_source_snapshot": 53,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  },
+  {
+    "company": "âConnectWise",
+    "careers_url": "https://job-boards.greenhouse.io/connectwise",
+    "india_locations": [
+      "Pune",
+      "Mumbai",
+      "Bengaluru"
+    ],
+    "tech_roles_count_at_source_snapshot": 11,
+    "ats_provider": "Greenhouse",
+    "source_url": "https://getchayan.com/career-pages-of-companies-in-india/"
+  }
+]

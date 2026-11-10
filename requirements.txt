@@ -7,6 +7,7 @@ psycopg[binary]
 redis
 celery
 httpx
+beautifulsoup4
 openai
 PyYAML
 pylatexenc
