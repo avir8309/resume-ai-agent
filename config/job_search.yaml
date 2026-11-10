@@ -1,0 +1,52 @@
+locations:
+  - Gurugram
+  - Gurgaon
+  - Bengaluru
+  - Bangalore
+  - Hyderabad
+  - Pune
+  - India
+  - Remote
+
+titles:
+  - SDE-1
+  - Software Engineer I
+  - Software Engineer
+  - Backend Engineer
+  - Java Developer
+  - Python Developer
+  - Associate Software Engineer
+
+excluded_title_terms:
+  - Senior
+  - Staff
+  - Lead
+  - Principal
+  - Manager
+  - Director
+  - Architect
+
+experience_years:
+  min: 0
+  max: 2
+
+technologies:
+  - Java
+  - Python
+  - C++
+  - Spring Boot
+  - SQL
+  - PostgreSQL
+  - Redis
+  - Kafka
+  - Apache Spark
+  - Distributed Systems
+
+request:
+  timeout_seconds: 30
+  delay_seconds: 0.25
+  max_retries: 3
+
+output:
+  json: opportunities.json
+  csv: opportunities.csv

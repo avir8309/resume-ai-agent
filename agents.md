@@ -174,6 +174,38 @@ Implement integrations for:
 - SmartRecruiters
 - Other supported public job APIs
 
+### Public web-scraping approach
+
+Use the generated `company_registry.json` and `company_registry.csv` as the initial company seed list. The registry is sourced from the public directory at:
+
+`https://getchayan.com/career-pages-of-companies-in-india/`
+
+For each company, fetch only publicly accessible career pages or documented public job-board endpoints. Prefer structured public endpoints over HTML scraping when available:
+
+- Greenhouse public job-board endpoints.
+- Lever public postings endpoints.
+- Ashby public job-board pages/endpoints.
+- SmartRecruiters public posting endpoints.
+
+The scraper must:
+
+1. Read company name, career URL, ATS provider and India locations from the registry.
+2. Route each company to the correct ATS adapter.
+3. Retrieve published/listed jobs only.
+4. Support pagination, retries with exponential backoff and request timeouts.
+5. Cache responses and avoid repeated requests when the source data has not changed.
+6. Respect `robots.txt`, provider terms, rate limits and reasonable request delays.
+7. Never bypass authentication, CAPTCHAs, paywalls or access controls.
+8. Preserve the source provider, company, original job URL and posting date.
+9. Normalize all results into a common job schema.
+10. Deduplicate jobs by provider job ID and canonical application URL.
+11. Mark unsupported ATS providers as skipped with a reason instead of guessing endpoints.
+12. Record fetch time, source URL, HTTP status and parsing errors for observability.
+
+Web scraping is a coverage mechanism, not a guarantee of every open role. The system must report the sources and companies successfully scanned and must never invent listings or application links.
+
+Initial opportunity filters must follow the configured values in `config/job_search.yaml` and include India locations, remote India roles, target entry-level titles, 0–2 years of experience and supported technologies. Filtering must occur after normalization so all sources use the same rules.
+
 Important:
 - Use official public APIs wherever available.
 - Respect API rate limits and terms of service.
@@ -453,7 +485,10 @@ Never claim a feature is complete unless its implementation and relevant tests h
 Implement in this order:
 
 ### Phase 1 — Job Discovery
-- API integrations.
+- Public ATS API and web-scraping integrations.
+- Company registry ingestion from `company_registry.json` and `company_registry.csv`.
+- Greenhouse, Lever, Ashby and SmartRecruiters adapters.
+- Provider routing, pagination, retries, caching and fetch logging.
 - Job normalization.
 - Location and title filtering.
 - Deduplication.
