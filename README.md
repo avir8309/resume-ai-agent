@@ -104,7 +104,7 @@ The `remoteintech/remote-jobs` repository is a directory of remote-friendly comp
 python import_remoteintech.py C:\path\to\remote-jobs --output remoteintech_companies.json
 ```
 
-The command generates both `remoteintech_companies.json` and `remoteintech_companies.csv` by default. The JSON preserves company metadata, parsed Markdown sections, raw profile Markdown, and each upstream source file. The CSV flattens technologies and serializes sections for spreadsheet use. Neither file invents individual job postings, job IDs, or posting dates that are not present in the source repository.
+The command generates both `remoteintech_companies.json` and `remoteintech_companies.csv` by default. The JSON preserves company metadata, parsed Markdown sections, raw profile Markdown, and each upstream source file. The CSV flattens technologies and sections into simple single-line columns for spreadsheet use. Neither file invents individual job postings, job IDs, or posting dates that are not present in the source repository.
 
 Modify `config/job_search.yaml` to change these filters, request behavior, or output names. The scraper does not invent an experience level when a posting does not state one; title and description evidence are used for filtering.
 

@@ -69,12 +69,16 @@ def parse_profile(path: Path, source_root: Path) -> dict[str, Any]:
 
 
 def csv_record(profile: dict[str, Any]) -> dict[str, Any]:
-    """Flatten nested/list profile values for a tabular CSV representation."""
-    record = dict(profile)
+    """Flatten profile values into simple, spreadsheet-friendly CSV fields."""
+    record = {
+        key: value
+        for key, value in profile.items()
+        if key not in {"sections", "raw_markdown"}
+    }
     record["technologies"] = "; ".join(profile.get("technologies") or [])
-    record["sections"] = json.dumps(
-        profile.get("sections", {}), ensure_ascii=False, separators=(",", ":")
-    )
+    for section_name, section_text in profile.get("sections", {}).items():
+        column = re.sub(r"[^a-z0-9]+", "_", section_name.casefold()).strip("_")
+        record[f"section_{column}"] = re.sub(r"\s+", " ", section_text).strip()
     return record
 
 
@@ -92,8 +96,13 @@ def write_csv(profiles: list[dict[str, Any]], csv_path: Path) -> None:
         "updatedAt",
         "source_file",
         "source_repository",
-        "sections",
-        "raw_markdown",
+        "section_company_blurb",
+        "section_company_size",
+        "section_remote_status",
+        "section_region",
+        "section_company_technologies",
+        "section_office_locations",
+        "section_how_to_apply",
     ]
     with csv_path.open("w", newline="", encoding="utf-8-sig") as file:
         writer = csv.DictWriter(file, fieldnames=fields, extrasaction="ignore")
