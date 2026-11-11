@@ -11,10 +11,11 @@ import sys
 import time
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
 import yaml
+from bs4 import BeautifulSoup
 
 
 ROOT = Path(__file__).resolve().parent
@@ -208,6 +209,67 @@ def fetch(url: str, config: dict[str, Any]) -> Any:
     raise RuntimeError("Unreachable")
 
 
+def fetch_html(url: str, config: dict[str, Any]) -> str:
+    retries = config["request"]["max_retries"]
+    timeout = config["request"]["timeout_seconds"]
+    for attempt in range(retries + 1):
+        try:
+            logger.debug("Fetching HTML %s (attempt %d/%d)", url, attempt + 1, retries + 1)
+            response = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=timeout)
+            response.raise_for_status()
+            return response.text
+        except requests.RequestException as exc:
+            if attempt == retries:
+                logger.error("HTML request failed after %d attempts: %s", retries + 1, exc)
+                raise
+            logger.warning("HTML request failed; retrying in %d seconds: %s", 2**attempt, exc)
+            time.sleep(2**attempt)
+    raise RuntimeError("Unreachable")
+
+
+def extract_generic_jobs(company: dict[str, Any], html: str) -> list[dict[str, Any]]:
+    """Extract conservative job-link candidates from unsupported public pages."""
+    soup = BeautifulSoup(html, "html.parser")
+    base_url = company.get("careers_url", "")
+    keywords = ("job", "jobs", "career", "opening", "position", "vacancy", "apply")
+    jobs = []
+    seen_urls = set()
+    for anchor in soup.find_all("a", href=True):
+        title = clean_text(anchor.get_text(" ", strip=True))
+        href = urljoin(base_url, anchor["href"])
+        link_text = f"{title} {href}".casefold()
+        if not title or len(title) < 4 or not any(word in link_text for word in keywords):
+            continue
+        if href in seen_urls or href.startswith(("mailto:", "javascript:", "#")):
+            continue
+        seen_urls.add(href)
+        parent_text = clean_text(anchor.parent.get_text(" ", strip=True))
+        jobs.append(
+            {
+                "title": title,
+                "description": parent_text,
+                "location": ", ".join(company.get("india_locations", [])),
+                "application_url": href,
+                "id": href,
+            }
+        )
+    return jobs
+
+
+def normalize_generic(company: dict[str, Any], raw: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "source": company.get("ats_provider") or "Career page",
+        "company": company.get("company"),
+        "job_id": str(raw.get("id") or raw.get("application_url") or ""),
+        "title": clean_text(raw.get("title")),
+        "description": clean_text(raw.get("description")),
+        "location": clean_text(raw.get("location")),
+        "posted_at": None,
+        "application_url": raw.get("application_url"),
+        "source_url": company.get("careers_url"),
+    }
+
+
 def write_outputs(jobs: list[dict[str, Any]], config: dict[str, Any]) -> None:
     json_path = ROOT / config["output"]["json"]
     csv_path = ROOT / config["output"]["csv"]
@@ -225,29 +287,36 @@ def main() -> None:
     config = load_config()
     registry = load_registry()
     jobs: list[dict[str, Any]] = []
-    skipped = 0
-    scanned = 0
+    attempted = 0
+    structured_scanned = 0
+    generic_scanned = 0
+    failed = 0
     for company in registry:
         provider = company.get("ats_provider", "")
-        if provider not in SUPPORTED_PROVIDERS:
-            skipped += 1
-            logger.debug("Skipping unsupported provider %s for %s", provider, company.get("company"))
-            continue
-        url = endpoint(provider, company.get("careers_url", ""))
-        if not url:
-            skipped += 1
-            logger.warning("Could not build endpoint for %s (%s)", company.get("company"), provider)
-            continue
-        scanned += 1
+        attempted += 1
         try:
-            logger.info("Scanning %s via %s", company.get("company"), provider)
-            for raw in extract_jobs(provider, fetch(url, config)):
-                job = normalize(provider, company, raw)
-                if matches(job, config):
-                    jobs.append(job)
+            if provider in SUPPORTED_PROVIDERS:
+                url = endpoint(provider, company.get("careers_url", ""))
+                if not url:
+                    raise ValueError("Could not build structured provider endpoint")
+                structured_scanned += 1
+                logger.info("Scanning %s via %s", company.get("company"), provider)
+                raw_jobs = extract_jobs(provider, fetch(url, config))
+                for raw in raw_jobs:
+                    job = normalize(provider, company, raw)
+                    if matches(job, config):
+                        jobs.append(job)
+            else:
+                generic_scanned += 1
+                logger.info("Scanning %s via public HTML page (%s)", company.get("company"), provider)
+                for raw in extract_generic_jobs(company, fetch_html(company.get("careers_url", ""), config)):
+                    job = normalize_generic(company, raw)
+                    if matches(job, config):
+                        jobs.append(job)
             logger.debug("Finished scanning %s", company.get("company"))
         except (requests.RequestException, ValueError, TypeError) as exc:
-            logger.error("Skipped %s (%s): %s", company.get("company"), provider, exc)
+            failed += 1
+            logger.error("Failed to scan %s (%s): %s", company.get("company"), provider, exc)
         time.sleep(config["request"]["delay_seconds"])
 
     unique: dict[tuple[str, str], dict[str, Any]] = {}
@@ -257,10 +326,12 @@ def main() -> None:
     results = list(unique.values())
     write_outputs(results, config)
     logger.info(
-        "Scraper complete: scanned=%d, matching=%d, skipped=%d",
-        scanned,
+        "Scraper complete: attempted=%d, structured=%d, generic_html=%d, matching=%d, failed=%d",
+        attempted,
+        structured_scanned,
+        generic_scanned,
         len(results),
-        skipped,
+        failed,
     )
 
 

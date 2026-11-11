@@ -199,10 +199,11 @@ The scraper must:
 8. Preserve the source provider, company, original job URL and posting date.
 9. Normalize all results into a common job schema.
 10. Deduplicate jobs by provider job ID and canonical application URL.
-11. Mark unsupported ATS providers as skipped with a reason instead of guessing endpoints.
+11. Attempt unsupported providers through a conservative public HTML fallback; record
+    the provider, source URL and parsing result, and never guess missing job data.
 12. Record fetch time, source URL, HTTP status and parsing errors for observability.
 
-Web scraping is a coverage mechanism, not a guarantee of every open role. The system must report the sources and companies successfully scanned and must never invent listings or application links.
+Web scraping is a coverage mechanism, not a guarantee of every open role. The system must report the sources and companies attempted, successfully scanned, failed and matched. Generic HTML extraction must never invent listings or application links.
 
 Initial opportunity filters must follow the configured values in `config/job_search.yaml` and include India locations, remote India roles, target entry-level titles, 0–2 years of experience and supported technologies. Filtering must occur after normalization so all sources use the same rules.
 
